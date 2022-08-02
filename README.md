@@ -49,8 +49,6 @@ You can find this API online at: https://shoutboxapi.herokuapp.com/
 
 The Database for this online API is hosted on https://remotemysql.com/
 
-Forked version with tests:
-https://github.com/MattiDR/webservices-karine-2122-MattiDR
 
 
 ## Contact
