@@ -4,7 +4,7 @@ module.exports = {
 		disabled: false,
 	},
 	cors: {
-		origins: ['https://agitated-meitner-a6099c.netlify.app'],
+		origins: [''],
 		maxAge: 3 * 60 * 60,
 	},
 	database: {
@@ -23,8 +23,8 @@ module.exports = {
 	  },
 	  jwt: {
 		expirationInterval: 60 * 60 * 1000,
-		issuer: 'matti.deroos.be',
-		audience: 'matti.deroos.be',
+		issuer: 'quintin.mintiens.be',
+		audience: 'quintin.mintiens.be',
 	  }
   },
 };

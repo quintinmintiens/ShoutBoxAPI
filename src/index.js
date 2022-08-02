@@ -2,7 +2,7 @@ const config = require('config');
 const knex = require('knex');
 const { join } = require('path');
 
-const { getChildLogger } = require('../core/logging');
+const { getChildLogger } = require('../src/core/logging');
 
 const NODE_ENV = config.get('env');
 const isDevelopment = NODE_ENV === 'development';

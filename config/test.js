@@ -27,10 +27,10 @@ module.exports = {
 		  memoryCost: 2 ** 17,
 	  },
 	  jwt: {
-		secret: 'eenveeltemoeilijksecretdatniemandooitzalradenandersisdesitegehacked',
+		secret: 'veryhardtoguessiguess',
 		expirationInterval: 60 * 60 * 1000,
-		issuer: 'matti.deroos.be',
-		audience: 'matti.deroos.be',
+		issuer: 'quintin.mintiens.be',
+		audience: 'quintin.mintiens.be',
 	  }
   },
 };
